@@ -1,3 +1,5 @@
 print('First file in my new branch')
 for i in range(10):
-    print(i)
+    print(i, end = '')
+    print('*')
+
